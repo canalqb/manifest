@@ -1,0 +1,14 @@
+{
+  "name": "CanalQb - Script e Cripto",
+  "short_name": "CanalQb",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://github.com/canalqb/manifest/raw/main/maskable_icon.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ]
+}
