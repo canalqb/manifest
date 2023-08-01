@@ -1,6 +1,9 @@
 {
   "name": "CanalQb",
-  "short_name": "CanalQb",
+  "short_name": "CanalQb",  
+  "theme_color": "#007bff", // Defina uma cor de tema para a barra de endereço  
+  "background_color": "#ffffff", // Defina uma cor de fundo
+  "display": "standalone",
   "icons": [
     {
       "src": "https://github.com/canalqb/manifest/raw/main/maskable_icon_x192.png",
@@ -19,4 +22,6 @@
       "purpose": "maskable"
     }
   ],
+  "splash_pages": null // Defina a tela de abertura personalizada (splash screen) aqui
 }
+ 
