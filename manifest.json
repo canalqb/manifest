@@ -13,11 +13,10 @@
       "sizes": "512x512"
     },
     {
-      "src": "https://github.com/canalqb/manifest/raw/main/maskable_icon.png", // Ícone Maskable adicionado aqui
+      "src": "https://github.com/canalqb/manifest/raw/main/maskable_icon.png", 
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "maskable"
     }
   ],
-  // Outras configurações do manifesto
 }
