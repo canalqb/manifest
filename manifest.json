@@ -6,17 +6,17 @@
   "display": "standalone",
   "icons": [
     {
-      "src": "https://github.com/canalqb/manifest/raw/main/maskable_icon_x192.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0gnRLmnZpgwE5AM4Qr7eZoue-w-REXTS9ZMi-yGaTOlRwxLfFDdfVLfKV2nAjf_KiaQBBiUbj9_inCcNvWQOz5NL-k5AjCPS3rwb7fBK98vFEH2Dv98zsmS1U08NDk_AYofRC78pDp0Lo3RzKYTuFTtz6tRgGGzIbGp7yLfkzVL1x9H6HnownkLbAWU9W/s1600/maskable_icon_x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "https://raw.githubusercontent.com/canalqb/manifest/main/maskable_icon_x512.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBXlmrXflcDvI-4PGN288EgWjcUnoaVJuHBo7rm0vUyiw6us84W82w3IcWKyCAicOQ60dwLz238_YWqwGa-jOJNfaxJHvO2muMk7Y_0Re9BQ9iwG4cgo9kGG9F4_h8nfYfq1yTJtQNCnY992ymy-S_yyRW01zt40l5ZyGIz8k1llZOAa4Yw_VV1Aar4XCQ/s1600/maskable_icon_x512.png",
       "type": "image/png",
       "sizes": "512x512"
     },
     {
-      "src": "https://github.com/canalqb/manifest/raw/main/maskable_icon.png", 
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvLVUpTu9IwpMTQ26TApvnKXMWYWmBj9ZaIN4FpCVi7mBxxD1NBzCUnrekYpTRV22hN6EAzJasM-wMpY_3FJiXxEbdRO_ZX4TRaHYEDMd_p8Pqz-EglTUouPiIyJQRLVoux76rFR-KnR034jPVnDkv7Xfh5rcxUB0xYAMla6lCXKInta8RVEIvcOc1PGmA/s1600/maskable_icon.png", 
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "maskable"
