@@ -1,14 +1,23 @@
 {
-  "name": "CanalQb - Script e Cripto",
+  "name": "CanalQb",
   "short_name": "CanalQb",
-  "start_url": "/index.html",
-  "display": "standalone",
   "icons": [
     {
-      "src": "https://github.com/canalqb/manifest/raw/main/maskable_icon.png",
+      "src": "https://github.com/canalqb/manifest/raw/main/maskable_icon_x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/canalqb/manifest/main/maskable_icon_x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "https://github.com/canalqb/manifest/raw/main/maskable_icon.png", // Ícone Maskable adicionado aqui
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "maskable"
     }
-  ]
+  ],
+  // Outras configurações do manifesto
 }
