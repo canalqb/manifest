@@ -123,7 +123,6 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para ma
 * 💸 Apoie o projeto via Bitcoin: 13Ve1k5ivByaCQ5yer6GoV84wAtf3kNava
 * PIX: [qrodrigob@gmail.com](mailto:qrodrigob@gmail.com)
 
-*Escreva abaixo do PIX:*
 *Readme.md corrigido por ChatGPT*
 
 ## 7. Nota
