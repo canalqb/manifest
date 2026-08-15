@@ -3,12 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CanalQb - Manifest PWA</title>
+    <title>CanalPb PWA</title>
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#007bff">
 </head>
 <body>
-    <h1>CanalQb PWA</h1>
+    <h1>CanalPb PWA</h1>
     <p>Progressive Web App configurado</p>
+
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js')
+            .then(registration => {
+              console.log('Service Worker registrado com sucesso!', registration.scope);
+            })
+            .catch(error => {
+              console.log('Falha ao registrar o Service Worker:', error);
+            });
+        });
+      }
+    </script>
 </body>
 </html>
